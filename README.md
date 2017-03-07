@@ -4,7 +4,8 @@ Asteroid Game
 Instructions:
 Shoot as many asteriods as you can while avoiding them so you don't lose lives. If you shoot an asteroid you gain 100 points but if you miss one you will be penalized 100 points. Getting hit by an asteroid will cause you to lose one of your three lives. Press the space bar to shoot a laser and use up and down arrow keys to move up and down respectively. Every once in a while there will be a bonus of an extra life. Do your best to become number one on the Top 10 Scorer Leaderboard.
 
-----------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+
 Description:
 Scrolling 2D Asteroid shooting game. This program was made in Python 3.5 using Pygame.
 
@@ -39,4 +40,4 @@ Version 0.4(3/3/17):
 -Added Starting Screen
 -High score now appears on Start Screen
 -Game title now appears on Start Screen
--Start now appear on Start Screen with instructionson how to do it(left click)
+-Start now appear on Start Screen with instructions on how to do it(left click)
